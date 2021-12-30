@@ -1,0 +1,87 @@
+{
+    "blindboxes":[
+        {
+            "name":"Blind Box - Ship",
+            "tier":"Tier Common",
+            "index":0,
+            "price":"40 MXC",
+            "possibility":"Uncommon Common",
+            "img":"./img/blindbox/ship0.jpg",
+            "previewImg":"./img/blindbox/preview_ship0.png",
+            "iconImg":"./img/myicons/shipicon.png"
+        },
+        {
+            "name":"Blind Box - CB",
+            "tier":"Tier Common",
+            "index":1,
+            "price":"45 MXC",
+            "possibility":"Uncommon Common Rare",
+            "img":"./img/blindbox/planet1.jpg",
+            "previewImg":"./img/blindbox/preview_planet1.png",
+            "iconImg":"./img/myicons/planeticon.png"
+        },
+        {
+            "name":"Blind Box - Ship",
+            "tier":"Tier Uncommon",
+            "index":2,
+            "price":"160 MXC",
+            "img":"./img/blindbox/ship1.jpg",
+            "previewImg":"./img/blindbox/preview_ship1.png",
+            "iconImg":"./img/myicons/shipicon.png"
+        },
+        {
+            "name":"Blind Box - Ship",
+            "tier":"Tier Epic",
+            "index":3,
+            "price":"1270 MXC",
+            "img":"./img/blindbox/ship2.jpg",
+            "previewImg":"./img/blindbox/preview_ship2.png",
+            "iconImg":"./img/myicons/shipicon.png"
+        },
+        {
+            "name":"Blind Box - Ship",
+            "tier":"Tier Legendary",
+            "index":4,
+            "price":"6660 MXC",
+            "img":"./img/blindbox/ship3.jpg",
+            "previewImg":"./img/blindbox/preview_ship3.png",
+            "iconImg":"./img/myicons/shipicon.png"
+        },
+        {
+            "name":"Blind Box - Ship",
+            "tier":"Tier Primordial",
+            "index":5,
+            "price":"35500 MXC",
+            "img":"./img/blindbox/ship4.jpg",
+            "previewImg":"./img/blindbox/preview_ship4.png",
+            "iconImg":"./img/myicons/shipicon.png"
+        },
+        {
+            "name":"Blind Box - CB",
+            "tier":"Tier Uncommon",
+            "index":6,
+            "price":"382 MXC",
+            "img":"./img/blindbox/planet2.jpg",
+            "previewImg":"./img/blindbox/preview_planet2.png",
+            "iconImg":"./img/myicons/planeticon.png"
+        },
+        {
+            "name":"Blind Box - CB",
+            "tier":"Tier Epic",
+            "index":7,
+            "price":"1465 MXC",
+            "img":"./img/blindbox/planet3.jpg",
+            "previewImg":"./img/blindbox/preview_planet3.png",
+            "iconImg":"./img/myicons/planeticon.png"
+        },
+        {
+            "name":"Blind Box - CB",
+            "tier":"Tier Legendary",
+            "index":8,
+            "price":"3480 MXC",
+            "img":"./img/blindbox/planet4.jpg",
+            "previewImg":"./img/blindbox/preview_planet4.png",
+            "iconImg":"./img/myicons/planeticon.png"
+        }
+    ]
+}

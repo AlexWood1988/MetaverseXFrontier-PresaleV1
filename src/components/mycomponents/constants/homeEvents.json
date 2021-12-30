@@ -1,0 +1,28 @@
+{
+    "events":[
+        {
+            "banner":"./img/events/1.png",
+            "avatar":"./img/events/a1.png",
+            "username":"Reward",
+            "unique_id":"Official Event"
+        },
+        {
+            "banner":"./img/events/2.png",
+            "avatar":"./img/events/a2.png",
+            "username":"Whitelist",
+            "unique_id":"Official Event"
+        },
+        {
+            "banner":"./img/events/3.png",
+            "avatar":"./img/events/a3.png",
+            "username":"Campaign",
+            "unique_id":"Marketing Campaign"
+        },
+        {
+            "banner":"./img/events/4.png",
+            "avatar":"./img/events/a4.png",
+            "username":"Extra Yield",
+            "unique_id":"MetaverseX: Frontier Closed Beta"
+        }
+    ]
+}
